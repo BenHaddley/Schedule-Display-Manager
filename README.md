@@ -1,6 +1,7 @@
 Schedule Display Manager
 The Schedule Display Manager simplifies the process of managing and displaying course schedules and appointment times on a second screen. It's particularly useful in educational and training environments where keeping schedules up-to-date is essential.
 
+
 Key Features
 Course and Appointment Management:
 
@@ -20,25 +21,28 @@ GUI on a laptop stand allows users to seamlessly add new courses and appointment
 Real-time updates to the slideshow.
 Use Cases
 Military Training Facilities:
-
 Ideal for displaying and managing training schedules in a military context.
-Conference Rooms:
 
+Conference Rooms:
 Useful in corporate or educational settings where schedules need to be frequently updated and displayed.
+
 Getting Started
 Prerequisites
-Ensure you have Python installed on your system.
-Install any required libraries specified in requirements.txt.
+Python 3.x
+Required libraries as specified in requirements.txt
 Installation
 Clone the repository:
+
 bash
 Copy code
 git clone https://github.com/yourusername/schedule-display-manager.git
 Navigate to the project directory:
+
 bash
 Copy code
 cd schedule-display-manager
 Run the setup script:
+
 bash
 Copy code
 setup_slides.bat
